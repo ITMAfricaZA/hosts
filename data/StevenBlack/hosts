@@ -2,6 +2,7 @@
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 ad-assets.futurecdn.net
 0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 wizhumpgyros.com
@@ -837,7 +838,6 @@
 0.0.0.0 foodandcot.com
 0.0.0.0 fortnight.space
 0.0.0.0 fortnitechat.site
-0.0.0.0 api.fouanalytics.com
 0.0.0.0 found.ee
 0.0.0.0 free-dating-girls.online
 0.0.0.0 freeadult.games
@@ -1428,7 +1428,6 @@
 0.0.0.0 cross-promos.tuanguwen.com
 0.0.0.0 word-res.tuanguwen.com
 0.0.0.0 word-v1.tuanguwen.com
-0.0.0.0 castoola.tv.lan
 0.0.0.0 tvpage.com
 0.0.0.0 a.tvpage.com
 0.0.0.0 api.tvpage.com
@@ -2777,7 +2776,7 @@
 0.0.0.0 tracker.nitropay.com
 
 # Added August 30, 2024
-0.0.0.0 grid-bidder.criteo
+0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 a-ring.msedge.net
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 hb.yellowblue.io
@@ -2786,3 +2785,55 @@
 
 # Added September 1, 2024
 0.0.0.0 analytics.intelliscapesolutions.com
+
+# Added September 5, 2024
+0.0.0.0 1000fapvids.online
+0.0.0.0 ddbca.localmeets.link
+
+# Added September 6, 2024
+0.0.0.0 browser-intake-datadoghq.com
+
+# Added September 16, 2024
+0.0.0.0 westus-0.in.applicationinsights.azure.com
+0.0.0.0 default.exp-tas.com
+
+# Added September 17, 2024
+0.0.0.0 api.receptivity.io
+0.0.0.0 commentaires.qub.ca
+0.0.0.0 indicedebonheur.com
+
+# Added September 21, 2024
+0.0.0.0 ads-static.phonepe.com
+
+# Added September 25, 2024
+0.0.0.0 gotoyahoo.com
+
+# Added September 27, 2024
+0.0.0.0 two.opensourced.us
+
+# Added October 2, 2024
+0.0.0.0 api.adnz.co
+0.0.0.0 xd.adnz.co
+
+# Added October 9, 2024
+0.0.0.0 canada.postcanadantwb.top
+
+# Added October 10, 2024
+0.0.0.0 flowto.it
+
+# Added October 11, 2024
+0.0.0.0 5197248-trckp05t.com
+
+# Added October 12, 2024
+0.0.0.0 api-visitor-analytics.intercom.com
+
+# Added October 13, 2024
+0.0.0.0 region1.google-analytics.com
+0.0.0.0 starshipstart.com
+
+# Added October 17, 2024
+0.0.0.0 delivery-schedule.com
+0.0.0.0 rustdesk.io
+0.0.0.0 rustdesk.pl
+0.0.0.0 rustdesk.co.nz
+0.0.0.0 rustdesk.secure-box.de

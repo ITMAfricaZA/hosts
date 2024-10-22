@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 31 August 2024 22:59:35 (UTC)
+# Date: 19 October 2024 01:36:45 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, social
-# Number of unique domains: 5,415
+# Number of unique domains: 5,411
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -5467,10 +5467,6 @@
 # Other
 0.0.0.0 pinpages.alwaysdata.net
 0.0.0.0 allotalk.com
-0.0.0.0 mbga.jp
-0.0.0.0 mixi.jp
-0.0.0.0 mixch.tv
-0.0.0.0 lobi.co
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
